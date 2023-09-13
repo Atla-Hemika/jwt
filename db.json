@@ -1,0 +1,44 @@
+{
+  "Admin": [
+    {
+      "Username": "admin",
+      "Password": "admin",
+      "token": "974378723"
+    }
+  ],
+  "User": [
+    {
+      "Username": "Swaroop",
+      "Email": "Swaroop@hcl.com",
+      "Password": "swaroop",
+      "Phonenumber": "9652903865",
+      "Address": "Hyderabad",
+      "Name": "Swaroop",
+      "Age": "22",
+      "id": 1,
+      "token":112978
+    },
+    {
+      "Username": "Subhash",
+      "Email": "subhash@hcl.com",
+      "Password": "subhash",
+      "Phonenumber": "9821039485",
+      "Address": "Vizag",
+      "Name": "Subhash",
+      "Age": "22",
+      "id": 2,
+      "token":665656
+    },
+    {
+      "Username": "Lokesh",
+      "Email": "lokesh@hcl.com",
+      "Password": "lokesh",
+      "Phonenumber": "9320241940",
+      "Address": "Warangal",
+      "Name": "Lokesh",
+      "Age": "21",
+      "id": 3,
+      "token":876787
+    }
+  ]
+}
